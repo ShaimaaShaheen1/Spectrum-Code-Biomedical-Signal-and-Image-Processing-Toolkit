@@ -1,13 +1,13 @@
-# 🎯 Spectrum Code: Biomedical Signal and Image Processing Toolkit (2025)
+# Spectrum Code: Biomedical Signal and Image Processing Toolkit (2025)
 
 A comprehensive suite of tools and applications for biomedical signal and image processing, designed for educational and research use.  
 This toolkit includes interactive platforms, visualization utilities, and real-time analysis tools for advanced DSP and biomedical applications.
 
 ---
 
-## 🧩 Project Collection
+## Project Collection
 
-### 🔹 [Multi-Channel Signal Viewer](https://github.com/Shaimaakamel474/Multi-Channel-Signal-Viewer)
+### 🔹[Multi-Channel Signal Viewer](https://github.com/Shaimaakamel474/Multi-Channel-Signal-Viewer)
 A real-time tool for visualizing, analyzing, and comparing multi-channel biomedical signals such as ECG, EEG, and EMG.
 
 ---
